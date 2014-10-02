@@ -4,6 +4,6 @@
 
 下面是更新列表：
 
-|时间|连接|概述|
+|时间|链接|概述|
 |---|---|---|
-|20141002|  https://github.com/paddingme/Front-end-Web-Development-Interview-Question/blob/master/1-front-end-web-development-quiz-css-part.md |[Front End Web Development Quiz](http://davidshariff.com/quiz/)中的css部分
+|2014年10月02|  https://github.com/paddingme/Front-end-Web-Development-Interview-Question/blob/master/1.md |[Front End Web Development Quiz](http://davidshariff.com/quiz/)中的css部分
