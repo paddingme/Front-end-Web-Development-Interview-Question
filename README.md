@@ -6,4 +6,4 @@
 
 |时间|链接|概述|
 |---|---|---|
-|2014年10月02|  [1](https://github.com/paddingme/Front-end-Web-Development-Interview-Question/blob/master/1.md) |[Front End Web Development Quiz](http://davidshariff.com/quiz/)中的css部分
+|2014年10月02日|  [1.md](https://github.com/paddingme/Front-end-Web-Development-Interview-Question/blob/master/1.md) |[Front End Web Development Quiz](http://davidshariff.com/quiz/)中的css部分
