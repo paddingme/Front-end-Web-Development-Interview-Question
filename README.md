@@ -4,7 +4,7 @@
 
 下面是更新列表：
 
-|时间|链接|原题概述|标签|
+|更新时间|试题链接|原题概述|标签|
 |---|---|---|---|
 |2014年10月02日|  [1.md](https://github.com/paddingme/Front-end-Web-Development-Interview-Question/blob/master/1.md) |[Front End Web Development Quiz](http://davidshariff.com/quiz/) CSS部分| CSS |
 |2012年10月04日|[2.md](https://github.com/paddingme/Front-end-Web-Development-Interview-Question/blob/master/2.md)|[Front End Web Development Quiz](http://davidshariff.com/quiz/) HTML部分| HTML |
