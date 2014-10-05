@@ -13,6 +13,6 @@
 
 
 
-todo:
+<!-- todo:
     1. 总结html中css,js加载顺序规律
-    2. 总结`display:none`和`visibility:hidden`的区别以及图片的加载
+    2. 总结`display:none`和`visibility:hidden`的区别以及图片的加载 -->
