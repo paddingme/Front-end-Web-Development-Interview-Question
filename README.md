@@ -22,7 +22,7 @@
 ## 前端面经部分
 |序号|前端面经|作者|标签分类|更新时间
 |---|---|---|---|---|
-|01|[吐嘈「个人简历」](http://mp.weixin.qq.com/s?__biz=MzA5NDY0ODkxNA==&mid=200168752&idx=1&sn=348edc7956f1ac9652aa2523b902bef5&scene=4)|[rank](http://mp.weixin.qq.com/s?__biz=MzA5NDY0ODkxNA==&mid=200168752&idx=1&sn=348edc7956f1ac9652aa2523b902bef5&scene=4)|怎么样写简历|2014年10月08日|
-|02|[如何写打动人的「个人简历」](http://mp.weixin.qq.com/s?__biz=MzA5NDY0ODkxNA==&mid=200173772&idx=1&sn=895a5c66548c1b4a72153b2217350ca1&scene=4)|[rank](http://mp.weixin.qq.com/s?__biz=MzA5NDY0ODkxNA==&mid=200173772&idx=1&sn=895a5c66548c1b4a72153b2217350ca1&scene=4)|怎样写简历|2014年10月08日|
-|03|[如何写好技术简历 —— 实例、模板及工具](http://get.jobdeer.com/744.get)|[jobdeer](http://get.jobdeer.com/744.get)|怎样写简历|2014年10月08日|
-|04|[Web前端程序员简历模板](https://github.com/paddingme/Front-end-Web-Development-Interview-Question/blob/master/前端面经/web.md)|[jobdeer](https://github.com/geekcompany/ResumeSample)|怎样写简历|2014年10月08日|
+|01|[吐嘈「个人简历」](http://mp.weixin.qq.com/s?__biz=MzA5NDY0ODkxNA==&mid=200168752&idx=1&sn=348edc7956f1ac9652aa2523b902bef5&scene=4)|[rank](http://mp.weixin.qq.com/s?__biz=MzA5NDY0ODkxNA==&mid=200168752&idx=1&sn=348edc7956f1ac9652aa2523b902bef5&scene=4)|简历撰写|2014年10月08日|
+|02|[如何写打动人的「个人简历」](http://mp.weixin.qq.com/s?__biz=MzA5NDY0ODkxNA==&mid=200173772&idx=1&sn=895a5c66548c1b4a72153b2217350ca1&scene=4)|[rank](http://mp.weixin.qq.com/s?__biz=MzA5NDY0ODkxNA==&mid=200173772&idx=1&sn=895a5c66548c1b4a72153b2217350ca1&scene=4)|简历撰写|2014年10月08日|
+|03|[如何写好技术简历 —— 实例、模板及工具](http://get.jobdeer.com/744.get)|[easychen](http://get.jobdeer.com/744.get)|简历撰写|2014年10月08日|
+|04|[Web前端程序员简历模板](https://github.com/paddingme/Front-end-Web-Development-Interview-Question/blob/master/前端面经/web.md)|[easychen](https://github.com/geekcompany/ResumeSample)|简历撰写|2014年10月08日|
