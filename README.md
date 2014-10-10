@@ -10,7 +10,7 @@
 |试题链接|原题概述|标签分类|更新状态|
 |---|---|---|---|
 |[1.md](https://github.com/paddingme/Front-end-Web-Development-Interview-Question/blob/master/前端试题/1.md) |<a href="http://davidshariff.com/quiz/" target="_blank">Front End Web Development Quiz</a> CSS部分| CSS |已完结|
-|[2.md](https://github.com/paddingme/Front-end-Web-Development-Interview-Question/blob/master/前端试题/2.md)|<a href="http://davidshariff.com/quiz/" target="_blank">Front End Web Development Quiz</a> HTML部分| HTML |待完善|
+|[2.md](https://github.com/paddingme/Front-end-Web-Development-Interview-Question/blob/master/前端试题/2.md)|<a href="http://davidshariff.com/quiz/" target="_blank">Front End Web Development Quiz</a> HTML部分| HTML |已完结|
 |[3.md](https://github.com/paddingme/Front-end-Web-Development-Interview-Question/blob/master/前端试题/3.md)|<a href="https://github.com/fex-team/interview-questions" target="_blank">FEX 面试题</a>| General|待完善|
 |[4.md](https://github.com/paddingme/Front-end-Web-Development-Interview-Question/blob/master/前端试题/4.md)|<a href="https://github.com/darcyclarke/Front-end-Developer-Interview-Questions#general" target="_blank">前端面试常见问题</a>| General|待完善|
 |[5.md](https://github.com/paddingme/Front-end-Web-Development-Interview-Question/blob/master/前端试题/5.md)|<a href="https://github.com/darcyclarke/Front-end-Developer-Interview-Questions#html" target="_blank">前端面试HTML 相关问题</a>| HTML|待解答|
