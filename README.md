@@ -33,4 +33,4 @@
 |05|[如何写好技术简历 ](http://get.jobdeer.com/744.get)|[easychen](http://get.jobdeer.com/744.get)|简历|2014年10月08日|
 
 
-## 推荐下[阅乎](http://yuehu.io)这个阅读体验灰常好的网站，我在这里收集了很多前端方面比较好的文章，地址请戳：[][菜鸟前端成长之路](http://yuehu.io/padding-me)
+#### 推荐下[阅乎](http://yuehu.io)这个阅读体验灰常好的网站，我在这里收集了很多前端方面比较好的文章，地址请戳：[菜鸟前端成长之路](http://yuehu.io/padding-me)
