@@ -155,5 +155,4 @@
 当然这些问题只能覆盖前端一点点的知识的，还有很多其他的方面你有可能会问到，像性能，HTML5 API, AMD和CommonJS模块模型，构造函数（constructors），类型和盒子模型（box model）。根据侯选人的情况，我经常会随机提些问题。
 
 
-
 原文地址： [blog.sourcing.io](http://blog.sourcing.io/interview-questions?utm_source=ourjs.com)
