@@ -21,7 +21,7 @@
 |[9.md](https://github.com/paddingme/Front-end-Web-Development-Interview-Question/blob/master/前端试题/9.md)|<a href="https://github.com/darcyclarke/Front-end-Developer-Interview-Questions#jscode" target="_blank">前端面试代码相关问题</a>|JavaScript|待解答 :fist: |
 |[10.md](https://github.com/paddingme/Front-end-Web-Development-Interview-Question/blob/master/前端试题/10.md)|<a href="https://github.com/darcyclarke/Front-end-Developer-Interview-Questions#fun" target="_blank">前端面试有趣的问题</a>| General|待解答 :fist: |
 |[11.md](https://github.com/paddingme/Front-end-Web-Development-Interview-Question/blob/master/前端试题/11.md)|<a href="javascript:void(0);">一些面试题</a>| General|待完善 :punch: |
-|12.md|[BAT及互联网公司2014前端笔试面试题--Html,CSS篇](http://www.cnblogs.com/coco1s/p/4034937.html)|HTML,CSS|待添加 :smile:|
+|12.md|[BAT及互联网公司2014前端笔试面试题--HTML,CSS篇](http://www.cnblogs.com/coco1s/p/4034937.html)|HTML,CSS|待添加 :smile:|
 |13.md|[BAT及互联网公司2014前端笔试面试题--JavaScript篇](http://www.cnblogs.com/coco1s/p/4034937.html)|JavaScript|待添加 :smile:|
 |14.md|[收集的前端面试题和答案](https://github.com/qiu-deqing/FE-interview)|General|待添加 :smile:|
 |15.md|[各大互联网公司2014前端笔试面试题–JavaScript篇](http://www.codeceo.com/article/2014-javascript-interview.html#13688-tsina-1-6076-57d4d90508c08d162896a47818ce968b)|JavaScript|待添加 :smile:|
