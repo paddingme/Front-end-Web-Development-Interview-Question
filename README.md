@@ -25,6 +25,7 @@
 |13.md|[BAT及互联网公司2014前端笔试面试题--JavaScript篇](http://www.cnblogs.com/coco1s/p/4034937.html)|JavaScript|待添加 :smile:|
 |14.md|[收集的前端面试题和答案](https://github.com/qiu-deqing/FE-interview)|General|待添加 :smile:|
 |15.md|[各大互联网公司2014前端笔试面试题–JavaScript篇](http://www.codeceo.com/article/2014-javascript-interview.html#13688-tsina-1-6076-57d4d90508c08d162896a47818ce968b)|JavaScript|待添加 :smile:|
+|16.md|[2014年最新前端开发面试题](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions/Questions-and-Answers)| General|待添加 :smile: |
 
 
 
