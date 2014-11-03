@@ -38,9 +38,9 @@
 |03|[吐嘈「个人简历」](http://mp.weixin.qq.com/s?__biz=MzA5NDY0ODkxNA==&mid=200168752&idx=1&sn=348edc7956f1ac9652aa2523b902bef5&scene=4)|[rank](http://mp.weixin.qq.com/s?__biz=MzA5NDY0ODkxNA==&mid=200168752&idx=1&sn=348edc7956f1ac9652aa2523b902bef5&scene=4)|简历|2014年10月08日|
 |04|[如何写打动人的「个人简历」](http://mp.weixin.qq.com/s?__biz=MzA5NDY0ODkxNA==&mid=200173772&idx=1&sn=895a5c66548c1b4a72153b2217350ca1&scene=4)|[rank](http://mp.weixin.qq.com/s?__biz=MzA5NDY0ODkxNA==&mid=200173772&idx=1&sn=895a5c66548c1b4a72153b2217350ca1&scene=4)|简历|2014年10月08日|
 |05|[如何写好技术简历 ](http://get.jobdeer.com/744.get)|[easychen](http://get.jobdeer.com/744.get)|简历|2014年10月08日|
-|06|[web前端开发方向校招考什么](http://www.zhihu.com/question/26188893)|[fouber](https://github.com/fouber)等|面经|2014年10月29日|
+|06|[web前端开发方向校招考什么](http://www.zhihu.com/question/26188893)|[fouber](https://github.com/fouber) 等|面经|2014年10月29日|
 |07|[腾讯web前端方向实习笔试准备](http://www.zhihu.com/question/20966351/answer/24401878)|[小爝](http://www.zhihu.com/people/xiao-jue-83)等|面经|2014年10月29日|
-|08|[精益技术简历之道——改善技术简历的47条原则](http://zh.lucida.me/blog/lean-technical-resume/)|[peng_gong](http://weibo.com/pegong)|简历|2014年11月03日|
+|08|[精益技术简历之道](http://zh.lucida.me/blog/lean-technical-resume/)|[peng_gong](http://weibo.com/pegong)|简历|2014年11月03日|
 
 
 
