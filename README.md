@@ -40,6 +40,8 @@
 |05|[如何写好技术简历 ](http://get.jobdeer.com/744.get)|[easychen](http://get.jobdeer.com/744.get)|简历|2014年10月08日|
 |06|[web前端开发方向校招考什么](http://www.zhihu.com/question/26188893)|[fouber](https://github.com/fouber)等|面经|2014年10月29日|
 |07|[腾讯web前端方向实习笔试准备](http://www.zhihu.com/question/20966351/answer/24401878)|[小爝](http://www.zhihu.com/people/xiao-jue-83)等|面经|2014年10月29日|
+|08|[精益技术简历之道——改善技术简历的47条原则](http://zh.lucida.me/blog/lean-technical-resume/)|[peng_gong](http://weibo.com/pegong)|简历|2014年11月03日|
+
 
 
 
