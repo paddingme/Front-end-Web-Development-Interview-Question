@@ -42,5 +42,6 @@
 |08|[精益技术简历之道](http://zh.lucida.me/blog/lean-technical-resume/)|[peng_gong](http://weibo.com/pegong)|简历|2014年11月03日|
 
 
-**推荐下[阅乎](http://yuehu.io)这个阅读体验灰常好的网站，我在这里收集了很多前端方面比较好的文章，地址请戳：[菜鸟前端成长之路](http://yuehu.io/padding-me)**
+**推荐下[阅乎](http://yuehu.io)这个阅读体验灰常好的网站，我在这里收集了很多前端方面比较好的文章。  
+地址请戳：[菜鸟前端成长之路](http://yuehu.io/padding-me)**
 
