@@ -1,6 +1,5 @@
 这里将收集我做过的所有的前端面试笔试题，并根据自己的理解提供解答，以及一些关于前端找工作方面的经验等。我将持续更新和维护该仓库，更欢迎你和我一起来维护。:smile:
 
-
 欢迎拍砖，一起刷题，涨姿势，get新技能，找到好工作。
 
 用不了多久你就能升职、加薪，当上总经理，出任CEO，赢取白富美，走上人生巅峰，想想是不是还有点小激动呢？
@@ -8,6 +7,7 @@
 下面是更新列表：
 
 ## 前端笔试面试题部分
+
 |试题链接|原题概述|标签分类|更新状态|
 |---|---|---|---|
 |[1.md](https://github.com/paddingme/Front-end-Web-Development-Interview-Question/blob/master/前端试题/1.md) |<a href="http://davidshariff.com/quiz/" target="_blank">Front End Web Development Quiz</a> CSS部分| CSS |已完结 :v: |
@@ -30,9 +30,8 @@
 |18.md|[5个典型的JavaScript面试题（上）](http://web.jobbole.com/80564/)|JavaScript|待添加 :smile:|
 |19.md|[再来5个JavaScript面试题](http://web.jobbole.com/81785/)|JavaScript|待添加 :smile:|
 
-
-
 ## 前端面经部分
+
 |序号|前端面经|作者|标签分类|更新时间
 |---|---|---|---|---|
 |01|[面试前端工程师](https://github.com/paddingme/Front-end-Web-Development-Interview-Question/blob/master/前端面经/interview.md)|[myownghost](http://ourjs.com/detail/52c4145d7986593603000009#rd?sukey=7786c31c0afdeabc7928a445a9744921eda681243c734321ca8feb87d38f5858e89c613121f933167fb042b2f0020190)|面经|2014年10月12日|
@@ -43,9 +42,10 @@
 |06|[web前端开发方向校招考什么](http://www.zhihu.com/question/26188893)|[fouber](https://github.com/fouber) 等|面经|2014年10月29日|
 |07|[腾讯web前端方向实习笔试准备](http://www.zhihu.com/question/20966351/answer/24401878)|[小爝](http://www.zhihu.com/people/xiao-jue-83)等|面经|2014年10月29日|
 |08|[精益技术简历之道](http://zh.lucida.me/blog/lean-technical-resume/)|[peng_gong](http://weibo.com/pegong)|简历|2014年11月03日|
+|09|[如何在面试中识别一个坏老板](http://get.jobdeer.com/6384.get/)|[Heather Huhman](https://www.linkedin.com/today/post/article/20140930113457-10999323-how-to-spot-a-bad-boss-during-a-job-interview)|面试|2014年11月17日|
 
+---
 
+推荐下[阅乎](http://yuehu.io)这个阅读体验灰常好的网站，我在这里收集了很多前端方面比较好的文章。  
+**地址请戳：[菜鸟前端成长之路](http://yuehu.io/padding-me)**
 
-
-#### 推荐下[阅乎](http://yuehu.io)这个阅读体验灰常好的网站，我在这里收集了很多前端方面比较好的文章，地址请戳：
-<a href="http://yuehu.io/padding-me" taget="_blank"><strong>菜鸟前端成长之路</strong></a>
