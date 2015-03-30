@@ -47,6 +47,7 @@
 |08|[精益技术简历之道](http://zh.lucida.me/blog/lean-technical-resume/)|[peng_gong](http://weibo.com/pegong)|简历|2014年11月03日|
 |09|[如何在面试中识别一个坏老板](http://get.jobdeer.com/6384.get/)|[Heather Huhman](https://www.linkedin.com/today/post/article/20140930113457-10999323-how-to-spot-a-bad-boss-during-a-job-interview)|面试|2014年11月17日|
 |10|[谈谈面试与面试题](https://github.com/wintercn/blog/issues/4)| [wintercn](https://github.com/wintercn)|面试|2015年01月09日|
+|11|[【web前端面试题整理08】说说最近几次面试（水）](http://www.cnblogs.com/yexiaochai/p/4366051.html)| [叶小钗](http://weibo.com/yiquinian)|面试|2015年03月30日|
 
 ---
 
