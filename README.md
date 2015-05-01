@@ -29,6 +29,10 @@
 |17.md|[前端面试资源汇总](https://github.com/infp/Front-end-Interview)| General|待添加 :smile: |
 |18.md|[5个典型的JavaScript面试题（上）](http://web.jobbole.com/80564/)|JavaScript|待添加 :smile:|
 |19.md|[再来5个JavaScript面试题](http://web.jobbole.com/81785/)|JavaScript|待添加 :smile:|
+|20.md| [BAT web前端开发方向校招都考些什么？](http://www.zhihu.com/question/26188893)|General|待添加 :smile: |
+|21.md| [ELE 笔试题](https://github.com/sofish/hire)|General|待添加 :smile: |
+|22.md| [一些JS题目的解答](https://github.com/xufei/blog/blob/master/posts/2013-12-02-%E4%B8%80%E4%BA%9BJS%E9%A2%98%E7%9B%AE%E7%9A%84%E8%A7%A3%E7%AD%94.md)|JavaScript|待添加 :smile: |
+|23.md| [最全前端面试问题及答案总结](http://segmentfault.com/a/1190000002562454)|General|待添加 :smile: |
 
 ## 前端面经部分
 
@@ -43,7 +47,9 @@
 |07|[腾讯web前端方向实习笔试准备](http://www.zhihu.com/question/20966351/answer/24401878)|[小爝](http://www.zhihu.com/people/xiao-jue-83)等|面经|2014年10月29日|
 |08|[精益技术简历之道](http://zh.lucida.me/blog/lean-technical-resume/)|[peng_gong](http://weibo.com/pegong)|简历|2014年11月03日|
 |09|[如何在面试中识别一个坏老板](http://get.jobdeer.com/6384.get/)|[Heather Huhman](https://www.linkedin.com/today/post/article/20140930113457-10999323-how-to-spot-a-bad-boss-during-a-job-interview)|面试|2014年11月17日|
-|10|[谈谈面试与面试题](https://github.com/wintercn/blog/issues/4)| [wintercn](https://github.com/wintercn)|面试|2015年1月9日|
+|10|[谈谈面试与面试题](https://github.com/wintercn/blog/issues/4)| [wintercn](https://github.com/wintercn)|面试|2015年01月09日|
+|11|[【web前端面试题整理08】说说最近几次面试（水）](http://www.cnblogs.com/yexiaochai/p/4366051.html)| [叶小钗](http://weibo.com/yiquinian)|面试|2015年03月30日|
+
 
 ---
 
