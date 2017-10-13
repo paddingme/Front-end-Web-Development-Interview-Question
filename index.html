@@ -37,11 +37,11 @@
             function(hook, vm) {
                 hook.beforeEach(function(html) {
                     var url = 'https://github.com/paddingme/Front-end-Web-Development-Interview-Question/blob/master/' + vm.route.file
-                    var editHtml = '[:memo: 编辑文档](' + url + ')\n'
+                    var editHtml = '<p style="text-align: right">[:memo: Github 上编辑此页面文档](' + url + ')</p>\n'
 
                     return html
-                        + '\n----\n'
-                        + '最后更新于 {docsify-updated} '
+//                        + '\n----\n'
+//                        + '最后更新于 {docsify-updated} '
                         + editHtml
                 })
 
