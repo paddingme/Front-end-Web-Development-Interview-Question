@@ -1,10 +1,11 @@
-这里将收集我做过的所有的前端面试笔试题，并根据自己的理解提供解答，以及一些关于前端找工作方面的经验等。我将持续更新和维护该仓库，更欢迎你和我一起来维护。:smile:
+这里将收集我做过的所有的前端面试笔试题，并根据自己的理解提供解答，以及一些关于前端找工作方面的经验等。我将持续更新和维护该仓库，更欢迎你和我一起来维护:smile::smile::smile:。
 
 欢迎拍砖，一起刷题，涨姿势，get新技能，找到好工作。
 
-用不了多久你就能升职、加薪，当上总经理，出任CEO，赢取白富美，走上人生巅峰，想想是不是还有点小激动呢？
+<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/dNi76fLkGGXZ8SdoDsJnDuDS/paddingme/Front-end-Developer-Interview-Questions'>
+  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/dNi76fLkGGXZ8SdoDsJnDuDS/paddingme/Front-end-Developer-Interview-Questions.svg' />
+</a>
 
-下面是更新列表：
 
 ## 前端笔试面试题部分
 
@@ -51,10 +52,3 @@
 |09|[如何在面试中识别一个坏老板](http://get.jobdeer.com/6384.get/)|[Heather Huhman](https://www.linkedin.com/today/post/article/20140930113457-10999323-how-to-spot-a-bad-boss-during-a-job-interview)|面试|2014年11月17日|
 |10|[谈谈面试与面试题](https://github.com/wintercn/blog/issues/4)| [wintercn](https://github.com/wintercn)|面试|2015年01月09日|
 |11|[【web前端面试题整理08】说说最近几次面试（水）](http://www.cnblogs.com/yexiaochai/p/4366051.html)| [叶小钗](http://weibo.com/yiquinian)|面试|2015年03月30日|
-
-
----
-
-推荐下[阅乎](http://yuehu.io)这个阅读体验灰常好的网站，我在这里收集了很多前端方面比较好的文章。  
-**地址请戳：[菜鸟前端成长之路](http://yuehu.io/padding-me)**
-

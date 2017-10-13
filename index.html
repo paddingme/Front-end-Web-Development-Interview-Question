@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>前端开发面试集锦</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+</head>
+<body>
+    <nav>
+        <a href="#/interview/">面经</a>
+        <a href="#/questions/">笔试题</a>
+    </nav>
+  <div id="app"></div>
+</body>
+<script>
+    window.$docsify = {
+        loadSidebar: true,
+        repo: 'https://github.com/paddingme/Front-end-Web-Development-Interview-Question',
+        subMaxLevel: 2,
+        maxLevel: 2,
+        mergeNavbar: true,
+        formatUpdated: '{MM}/{DD} {HH}:{mm}',
+        ga: 'UA-50048801-2',
+//        codesponsor: 'id',
+        search: {
+            maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+            paths: auto, // or 'auto'
+            placeholder: '搜索',
+            noData: '找不到结果!',
+            // 搜索标题的最大程级, 1 - 6
+//            depth: 3
+        },
+        plugins: [
+            function(hook, vm) {
+                hook.beforeEach(function(html) {
+                    var url = 'https://github.com/paddingme/Front-end-Web-Development-Interview-Question/blob/master/' + vm.route.file
+                    var editHtml = '[:memo: 编辑文档](' + url + ')\n'
+
+                    return html
+                        + '\n----\n'
+                        + '最后更新于 {docsify-updated} '
+                        + editHtml
+                })
+
+                var footer = [
+                    '<hr/>',
+                    '<footer>',
+                    '<span><a href="https://github.com/paddingme">PaddingMe</a> &copy;2017.</span>',
+                    '<span>Proudly published with <a href="https://github.com/QingWei-Li/docsify" target="_blank">docsify</a>.</span>',
+                    '</footer>'
+                ].join('')
+
+                hook.afterEach(function(html) {
+                    return html + footer
+                })
+            }
+        ]
+    }
+</script>
+<script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+<script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
+<!--<script src="//unpkg.com/docsify/lib/plugins/zoom-image.js"></script>-->
+<script src="//unpkg.com/docsify/lib/plugins/codesponsor.min.js"></script>
+<script>
+    if (typeof navigator.serviceWorker !== 'undefined') {
+        navigator.serviceWorker.register('sw.js')
+    }
+</script>
+</html>

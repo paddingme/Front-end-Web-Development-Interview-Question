@@ -1,0 +1,22 @@
+{
+  "name": "front-end-web-development-interview-question",
+  "version": "1.0.0",
+  "description": "前端开发面试题大收集",
+  "scripts": {
+    "start": "docsify serve ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paddingme/Front-end-Web-Development-Interview-Question.git"
+  },
+  "author": "paddingme <padding4me@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paddingme/Front-end-Web-Development-Interview-Question/issues"
+  },
+  "homepage": "https://github.com/paddingme/Front-end-Web-Development-Interview-Question#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "docsify-cli": "^4.1.11"
+  }
+}
