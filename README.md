@@ -46,8 +46,11 @@
 4. [如何在面试中识别一个坏老板](http://get.jobdeer.com/6384.get/) :arrow_upper_right:
 5. [谈谈面试与面试题](https://github.com/wintercn/blog/issues/4) @ [wintercn](https://github.com/wintercn) :arrow_upper_right:
 6. [说说最近几次面试](http://www.cnblogs.com/yexiaochai/p/4366051.html) @ [叶小钗](http://weibo.com/yiquinian) :arrow_upper_right:
+7. [在LinkedIn做面试官的故事](https://baijia.baidu.com/s?old_id=52449)
+8. [写给前端面试者](http://www.w3cplus.com/css/write-to-front-end-developer-interview.html) @大漠
 
 
+## 简历怎么写?
 
 ## 简历怎么写?
 
@@ -56,5 +59,5 @@
 3. [Web 前端程序员简历模板](/resume/1) @ [easychen](https://github.com/easychen)
 4. [吐嘈「个人简历」](http://mp.weixin.qq.com/s?__biz=MzA5NDY0ODkxNA==&mid=200168752&idx=1&sn=348edc7956f1ac9652aa2523b902bef5&scene=4) @ [rank](https://www.zhihu.com/people/rank) :arrow_upper_right:
 5. [如何写打动人的「个人简历」](http://mp.weixin.qq.com/s?__biz=MzA5NDY0ODkxNA==&mid=200173772&idx=1&sn=895a5c66548c1b4a72153b2217350ca1&scene=4) @[rank](https://www.zhihu.com/people/rank) :arrow_upper_right:
-
+6. [使用 vue 生成漂亮的简历](https://github.com/salomonelli/best-resume-ever) :arrow_upper_right:
 
