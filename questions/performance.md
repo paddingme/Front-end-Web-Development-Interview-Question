@@ -1,5 +1,14 @@
 # 性能优化
 
+Form [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+
+* 你会用什么工具来查找代码中的性能问题？
+* 你会用什么方式来增强网站的页面滚动效能？
+* 请解释 layout、painting 和 compositing 的区别。
+
+Form [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+
+
 
 - [Yahoo Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html)
 - [Google 使用 RAIL 模型评估性能](https://developers.google.com/web/fundamentals/performance/rail)
