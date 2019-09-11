@@ -2,10 +2,6 @@
 
 欢迎拍砖，一起刷题，涨姿势，get新技能，找到好工作。
 
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/dNi76fLkGGXZ8SdoDsJnDuDS/paddingme/Front-end-Web-Development-Interview-Question'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/dNi76fLkGGXZ8SdoDsJnDuDS/paddingme/Front-end-Web-Development-Interview-Question.svg' />
-</a>
-
 
 
 ## 前端笔试面试题部分
